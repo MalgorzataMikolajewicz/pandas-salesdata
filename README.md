@@ -1,4 +1,4 @@
-# Pandas - sales data
+# Sales data with pandas
 Preprocessing sales data, joining with dictionaries, adding new time periods.
 
 ## Technologies & libraries
