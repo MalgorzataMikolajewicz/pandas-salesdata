@@ -1,5 +1,5 @@
 # Sales data with pandas
-Preprocessing sales data, joining with dictionaries, adding new time periods.
+The application creates a dictionary with varius time periods (year, half year, quater, MAT, YTD, rolling quater). Preprocessing sales data, joining with dictionaries.
 
 ## Technologies & libraries
 
